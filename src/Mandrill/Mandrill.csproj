@@ -15,9 +15,9 @@
     <Description>Mandrill .Net is a quick and easy wrapper for getting started with the Mandrill API.</Description>
     <Product>Mandrill.net</Product>
     <Copyright>2017</Copyright>
-    <Version>3.1.0</Version>
+    <Version>3.1.0-custom1</Version>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
   </ItemGroup>
 </Project>
